@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Pjerind\source\repos\Project41\Project41\Source.cpp(1,1): error C2059: syntax error: ']'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\sal.h(2361,12): error C2143: syntax error: missing ';' before '{'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\sal.h(2361,12): error C2447: '{': missing function header (old-style formal list?)
